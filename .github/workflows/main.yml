@@ -15,7 +15,7 @@ jobs:
 
       - name: Android-Projekt entpacken
         run: |
-          unzip -o karsak-terminplaner-android-FIX9.zip
+          unzip -o karsak-terminplaner-android-FIX8.zip
           ls -la
           ls -la karsak-terminplaner-android
 
